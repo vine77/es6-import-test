@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import naturalSort from '../utils/naturalSort';
+import naturalSort from 'bower_components/natural-sort/naturalSort';
 
 export default Ember.Controller.extend({
   init: function() {
